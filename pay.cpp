@@ -7,7 +7,7 @@ int main()
 {
 cout << "hey" << endl;
 const int NUM_EMPLOYEES = 16; 
-vector<int> 
+vector<int> employees;
 
 return 0;
 }
